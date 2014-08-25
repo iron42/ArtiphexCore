@@ -1,0 +1,13 @@
+name: ArtiphexCore
+version: 0.1
+author: iron42
+
+main: ArtiphexCore.main
+
+commands:
+  cc:
+    description: clears the chat
+    usage: /cc
+  pettest:
+    description: pettest
+    usage: /pettest
